@@ -1,0 +1,6 @@
+[submodule "SDK"]
+	path = SDK
+	url = https://github.com/LiteLDev/SDK-cpp.git
+[submodule "SDK-dotnet"]
+	path = SDK-dotnet
+	url = https://github.com/LiteLDev/SDK-dotnet.git
